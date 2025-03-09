@@ -44,3 +44,33 @@
     margin-top: 16px;
 }
 
+/* main section- new year offer styles */
+.new-year-Offer{
+    text-align: center;
+    justify-content: center;
+    margin: 120px 258px;
+    zoom: 82%;
+    /* width: 802.9px;
+    height: 806px; */
+}
+.newyear-title{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: bold;
+    padding-bottom: 48px;
+}
+.newyear-subtitle{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 16px;
+}
+.newyear-description{
+    color: #070211;
+    font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 48px;
+}
+.newyear-image{
+    padding-bottom: 120px;
+}
